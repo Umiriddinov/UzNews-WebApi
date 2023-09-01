@@ -1,0 +1,120 @@
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\UzNews.WebApi.exe
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\UzNews.WebApi.deps.json
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\UzNews.WebApi.runtimeconfig.json
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\UzNews.WebApi.dll
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\UzNews.WebApi.pdb
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Dapper.dll
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.csproj.AssemblyReference.cache
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.AssemblyInfoInputs.cache
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.AssemblyInfo.cs
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.UzNews.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.UzNews.WebApi.props
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UzNews.WebApi.props
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UzNews.WebApi.props
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\scopedcss\bundle\UzNews.WebApi.styles.css
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.csproj.CopyComplete
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.dll
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\refint\UzNews.WebApi.dll
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.pdb
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.genruntimeconfig.cache
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\ref\UzNews.WebApi.dll
+C:\Users\Ahadulla\OneDrive\Desktop\Defoult\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\UzNews.WebApi.staticwebassets.runtime.json
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\UzNews.WebApi.staticwebassets.runtime.json
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\UzNews.WebApi.exe
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\UzNews.WebApi.deps.json
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\UzNews.WebApi.runtimeconfig.json
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\UzNews.WebApi.dll
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\UzNews.WebApi.pdb
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Dapper.dll
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Npgsql.dll
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.AssemblyInfo.cs
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.UzNews.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.UzNews.WebApi.props
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UzNews.WebApi.props
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UzNews.WebApi.props
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\scopedcss\bundle\UzNews.WebApi.styles.css
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.csproj.CopyComplete
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.dll
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\refint\UzNews.WebApi.dll
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.pdb
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.genruntimeconfig.cache
+C:\Users\user\Desktop\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\ref\UzNews.WebApi.dll
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\UzNews.WebApi.staticwebassets.runtime.json
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\UzNews.WebApi.exe
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\UzNews.WebApi.deps.json
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\UzNews.WebApi.runtimeconfig.json
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\UzNews.WebApi.dll
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\UzNews.WebApi.pdb
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Dapper.dll
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.csproj.AssemblyReference.cache
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.AssemblyInfoInputs.cache
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.AssemblyInfo.cs
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.UzNews.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.UzNews.WebApi.props
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UzNews.WebApi.props
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UzNews.WebApi.props
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\scopedcss\bundle\UzNews.WebApi.styles.css
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.csproj.CopyComplete
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.dll
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\refint\UzNews.WebApi.dll
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.pdb
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\UzNews.WebApi.genruntimeconfig.cache
+C:\Users\Temur\OneDrive\Desktop\New Compressed (zipped) Folder\UzNews\src\UzNews.WebApi\obj\Debug\net7.0\ref\UzNews.WebApi.dll

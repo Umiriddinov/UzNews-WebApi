@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Temur\\OneDrive\\Desktop\\New Compressed (zipped) Folder\\UzNews\\src\\UzNews.WebApi\\wwwroot\\Images\\IMG_11e99b58-6364-42e4-9846-d1c9c39f55b3.jpg",
+      "PackagePath": "staticwebassets\\Images\\IMG_11e99b58-6364-42e4-9846-d1c9c39f55b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Temur\\OneDrive\\Desktop\\New Compressed (zipped) Folder\\UzNews\\src\\UzNews.WebApi\\wwwroot\\Images\\IMG_4bb6797c-31e8-4add-8ef2-32203c712ee5.jpg",
+      "PackagePath": "staticwebassets\\Images\\IMG_4bb6797c-31e8-4add-8ef2-32203c712ee5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Temur\\OneDrive\\Desktop\\New Compressed (zipped) Folder\\UzNews\\src\\UzNews.WebApi\\wwwroot\\Images\\IMG_92f3b62b-8cce-46f0-a977-136bbcc1ce01.jpg",
+      "PackagePath": "staticwebassets\\Images\\IMG_92f3b62b-8cce-46f0-a977-136bbcc1ce01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Temur\\OneDrive\\Desktop\\New Compressed (zipped) Folder\\UzNews\\src\\UzNews.WebApi\\wwwroot\\Images\\IMG_93e238ad-1973-4da4-a5b7-f2e536c3f5fe.jpg",
+      "PackagePath": "staticwebassets\\Images\\IMG_93e238ad-1973-4da4-a5b7-f2e536c3f5fe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Temur\\OneDrive\\Desktop\\New Compressed (zipped) Folder\\UzNews\\src\\UzNews.WebApi\\wwwroot\\Images\\IMG_f10fbe9e-abd1-4fea-afd7-a007e354acbb.jpg",
+      "PackagePath": "staticwebassets\\Images\\IMG_f10fbe9e-abd1-4fea-afd7-a007e354acbb.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.UzNews.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.UzNews.WebApi.props",
+      "PackagePath": "build\\UzNews.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.UzNews.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\UzNews.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.UzNews.WebApi.props",
+      "PackagePath": "buildTransitive\\UzNews.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
